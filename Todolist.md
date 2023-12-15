@@ -5,6 +5,7 @@
     - [LLava-Med](https://github.com/microsoft/LLaVA-Med)
     - [NExT-GPT](https://github.com/NExT-GPT/NExT-GPT)
     - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
+    - [InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer)
     - 其他可参考[排行榜](https://huggingface.co/spaces/AILab-CVC/SEED-Bench_Leaderboard)
 
 - LLM
