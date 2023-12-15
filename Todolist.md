@@ -26,6 +26,7 @@
     - 混合精度
     - torch.complie
     - torchsript/JIT, [Demo](https://github.com/louis-she/torchscript-demos)
+    - [Lora](https://arxiv.org/abs/2106.09685)
 
 
 - Model Improvement, Efficient
