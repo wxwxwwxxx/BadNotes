@@ -1,2 +1,2 @@
 # BadNotes
-学习笔记。
+笔记软件大多又贵又难用，其实大多数时候用Markdown+Github已经够记笔记了。这个Repo就是这样的一个用来记学习笔记的Repo。
