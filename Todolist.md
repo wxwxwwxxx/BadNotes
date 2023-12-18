@@ -40,6 +40,8 @@
 
 - Theory
     - [浅谈Transformer的初始化、参数化与标准化](https://spaces.ac.cn/archives/8620)
+    - 关于[互信息](https://zh.wikipedia.org/wiki/%E4%BA%92%E4%BF%A1%E6%81%AF)
+    - [卷积](https://zh.wikipedia.org/wiki/%E5%8D%B7%E7%A7%AF)
 
 - 源码阅读
     - [Pytorch](https://github.com/pytorch/pytorch?tab=readme-ov-file)
