@@ -20,9 +20,15 @@
     - [DDIM](https://arxiv.org/abs/2010.02502)
     - [Diffusers](https://github.com/huggingface/diffusers)
     - [Stable Diffusion](https://github.com/Stability-AI/stablediffusion)
-    
-- Medical Pretrain Related
-    - [STU-Net](https://github.com/uni-medical/STU-Net)
+- Pretrain Related
+    - VQ-VAE
+        - [VQ-VAE](https://arxiv.org/pdf/1711.00937.pdf)
+        - [VQ-VAE2](https://arxiv.org/pdf/1906.00446.pdf)
+        - [Finite Scalar Quantization](https://arxiv.org/abs/2309.15505)
+
+    - Medical Pretrain Related
+        - [STU-Net](https://github.com/uni-medical/STU-Net)
+
 
 - Training Technique, Tricks
     - 混合精度, torch.amp[教程](https://pytorch.org/docs/stable/notes/amp_examples.html)
