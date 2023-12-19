@@ -25,7 +25,7 @@
     - [STU-Net](https://github.com/uni-medical/STU-Net)
 
 - Training Technique, Tricks
-    - 混合精度
+    - 混合精度, torch.amp[教程](https://pytorch.org/docs/stable/notes/amp_examples.html)
     - torch.complie
     - torchsript/JIT, [Demo](https://github.com/louis-she/torchscript-demos)
     - [DeepSpeed](https://github.com/microsoft/DeepSpeed)
