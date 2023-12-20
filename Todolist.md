@@ -19,6 +19,8 @@
         - [RAG](https://python.langchain.com/docs/use_cases/question_answering/)
         - [Lora](https://arxiv.org/abs/2106.09685)
     
+- Vector Database
+    - [Faiss](https://github.com/facebookresearch/faiss)
 
 - Diffuser
     - [DDPM](https://arxiv.org/abs/2006.11239)
