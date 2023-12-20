@@ -9,6 +9,7 @@
     - 其他可参考[排行榜](https://huggingface.co/spaces/AILab-CVC/SEED-Bench_Leaderboard)
 
 - LLM
+    - [phi-2](https://huggingface.co/microsoft/phi-2)
     - [LLaMa](https://github.com/facebookresearch/llama)
     - [InstructGPT](https://arxiv.org/pdf/2203.02155.pdf)
     - RLHF, [项目集合](https://github.com/opendilab/awesome-RLHF), [博客](https://huggingface.co/blog/zh/rlhf)
