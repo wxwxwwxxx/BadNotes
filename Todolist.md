@@ -9,12 +9,16 @@
     - 其他可参考[排行榜](https://huggingface.co/spaces/AILab-CVC/SEED-Bench_Leaderboard)
 
 - LLM
-    - [phi-2](https://huggingface.co/microsoft/phi-2)
-    - [LLaMa](https://github.com/facebookresearch/llama)
-    - [InstructGPT](https://arxiv.org/pdf/2203.02155.pdf)
-    - RLHF, [项目集合](https://github.com/opendilab/awesome-RLHF), [博客](https://huggingface.co/blog/zh/rlhf)
-    - [Lora](https://arxiv.org/abs/2106.09685)
-    - 其他可参考[排行榜](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+    - Model
+        - [phi-2](https://huggingface.co/microsoft/phi-2)
+        - [LLaMa](https://github.com/facebookresearch/llama)
+        - [InstructGPT](https://arxiv.org/pdf/2203.02155.pdf)
+        - 其他可参考[排行榜](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+    - Training or Inference Technique
+        - RLHF, [项目集合](https://github.com/opendilab/awesome-RLHF), [博客](https://huggingface.co/blog/zh/rlhf)
+        - [RAG](https://python.langchain.com/docs/use_cases/question_answering/)
+        - [Lora](https://arxiv.org/abs/2106.09685)
+    
 
 - Diffuser
     - [DDPM](https://arxiv.org/abs/2006.11239)
