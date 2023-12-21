@@ -65,3 +65,6 @@
         - [Contribution Page](https://github.com/pytorch/pytorch/blob/main/CONTRIBUTING.md)
         - [Contribution Guide](https://github.com/pytorch/pytorch/wiki/The-Ultimate-Guide-to-PyTorch-Contributions)
     - [timm](https://github.com/huggingface/pytorch-image-models)
+
+- Engineering
+    - [Clang](https://clang.llvm.org/docs/UsersManual.html)
