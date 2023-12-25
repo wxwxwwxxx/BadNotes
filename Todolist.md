@@ -68,3 +68,7 @@
 
 - Engineering
     - [Clang](https://clang.llvm.org/docs/UsersManual.html)
+
+- Writing
+    - [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
+    - [如何端到端地写科研论文？](http://www.cips-cl.org/static/CCL2018/downloads/stuPPT/qiuxp.pdf)
