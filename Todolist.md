@@ -72,3 +72,19 @@
 - Writing
     - [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
     - [如何端到端地写科研论文？](http://www.cips-cl.org/static/CCL2018/downloads/stuPPT/qiuxp.pdf)
+        - Abstract
+            - 问题是什么？
+            - 我们要做什么？
+            - 大概怎么做的？
+            - 做得还不错!
+        - Introduction
+            - 起：问题是什么？
+            - 承：相关工作
+            - 转：相关工作的不足与转机
+            - 合：本文工作、本文贡献（通常分点）
+        - Method
+            - 简要的重复问题
+            - 解决思路
+            - 形式化定义
+            - 具体模型
+            
