@@ -68,6 +68,7 @@
 
 - Engineering
     - [Clang](https://clang.llvm.org/docs/UsersManual.html)
+    - [llvm](https://llvm.org/docs/)
 
 - Writing
     - [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
@@ -87,4 +88,3 @@
             - 解决思路
             - 形式化定义
             - 具体模型
-            
