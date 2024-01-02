@@ -27,6 +27,7 @@
     - [DDIM](https://arxiv.org/abs/2010.02502)
     - [Diffusers](https://github.com/huggingface/diffusers)
     - [Stable Diffusion](https://github.com/Stability-AI/stablediffusion)
+    - [TextDiffuser](https://arxiv.org/abs/2305.10855), [TextDiffuser2](https://arxiv.org/abs/2311.16465)
 - Pretrain Related
     - VQ-VAE
         - [VQ-VAE](https://arxiv.org/pdf/1711.00937.pdf)
