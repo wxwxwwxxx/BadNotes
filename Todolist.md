@@ -18,7 +18,11 @@
         - RLHF, [项目集合](https://github.com/opendilab/awesome-RLHF), [博客](https://huggingface.co/blog/zh/rlhf)
         - RAG, [Langchain实现](https://python.langchain.com/docs/use_cases/question_answering/), [Survey](https://arxiv.org/abs/2312.10997)
         - [Lora](https://arxiv.org/abs/2106.09685)
-    
+
+- Deployment
+    - [TensorRT](https://github.com/NVIDIA/TensorRT)
+    - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+
 - Vector Database
     - [Faiss](https://github.com/facebookresearch/faiss)
 
