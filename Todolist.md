@@ -13,7 +13,7 @@
         - [phi-2](https://huggingface.co/microsoft/phi-2)
         - [LLaMa](https://github.com/facebookresearch/llama)
         - [InstructGPT](https://arxiv.org/pdf/2203.02155.pdf)
-        - 其他可参考[排行榜](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+        - 其他可参考[排行榜](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)以及[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
     - Training or Inference Technique
         - RLHF, [项目集合](https://github.com/opendilab/awesome-RLHF), [博客](https://huggingface.co/blog/zh/rlhf)
         - RAG, [Langchain实现](https://python.langchain.com/docs/use_cases/question_answering/), [Survey](https://arxiv.org/abs/2312.10997)
