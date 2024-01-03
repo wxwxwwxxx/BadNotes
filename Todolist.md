@@ -22,6 +22,7 @@
 - Deployment
     - [TensorRT](https://github.com/NVIDIA/TensorRT)
     - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+    - [复杂性的那些事](https://www.zhihu.com/column/c_1389404662173315072)
 
 - Vector Database
     - [Faiss](https://github.com/facebookresearch/faiss)
