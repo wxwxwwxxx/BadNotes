@@ -13,6 +13,7 @@
         - [phi-2](https://huggingface.co/microsoft/phi-2)
         - [LLaMa](https://github.com/facebookresearch/llama)
         - [InstructGPT](https://arxiv.org/pdf/2203.02155.pdf)
+        - [Mixtral-8x7B](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
         - 其他可参考[排行榜](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)以及[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
     - Training or Inference Technique
         - RLHF, [项目集合](https://github.com/opendilab/awesome-RLHF), [博客](https://huggingface.co/blog/zh/rlhf)
@@ -22,6 +23,7 @@
 - Deployment
     - [TensorRT](https://github.com/NVIDIA/TensorRT)
     - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+    - [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
     - [复杂性的那些事](https://www.zhihu.com/column/c_1389404662173315072)
 
 - Vector Database
