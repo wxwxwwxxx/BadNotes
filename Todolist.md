@@ -19,12 +19,11 @@
         - RLHF, [项目集合](https://github.com/opendilab/awesome-RLHF), [博客](https://huggingface.co/blog/zh/rlhf)
         - RAG, [Langchain实现](https://python.langchain.com/docs/use_cases/question_answering/), [Survey](https://arxiv.org/abs/2312.10997)
         - [Lora](https://arxiv.org/abs/2106.09685)
+        - [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
 
 - Deployment
     - [TensorRT](https://github.com/NVIDIA/TensorRT)
     - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
-    - [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
-    - [复杂性的那些事](https://www.zhihu.com/column/c_1389404662173315072)
 
 - Vector Database
     - [Faiss](https://github.com/facebookresearch/faiss)
@@ -96,3 +95,6 @@
             - 解决思路
             - 形式化定义
             - 具体模型
+
+- Miscellaneous
+    - [复杂性的那些事](https://www.zhihu.com/column/c_1389404662173315072)
