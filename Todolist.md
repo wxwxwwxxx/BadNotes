@@ -81,6 +81,7 @@
 - Engineering
     - [Clang](https://clang.llvm.org/docs/UsersManual.html)
     - [llvm](https://llvm.org/docs/)
+    - [计算机体系结构基础](https://foxsen.github.io/archbase/)
 
 - Writing
     - [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
@@ -105,4 +106,3 @@
     - [复杂性的那些事](https://www.zhihu.com/column/c_1389404662173315072)
     - [Antkillerfarm Hacking V6.5](https://antkillerfarm.github.io/)
     - [科学空间](https://spaces.ac.cn/)
-    
