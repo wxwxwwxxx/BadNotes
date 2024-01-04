@@ -34,6 +34,7 @@
     - [Diffusers](https://github.com/huggingface/diffusers)
     - [Stable Diffusion](https://github.com/Stability-AI/stablediffusion)
     - [TextDiffuser](https://arxiv.org/abs/2305.10855), [TextDiffuser2](https://arxiv.org/abs/2311.16465)
+    
 - Pretrain Related
     - VQ-VAE
         - [VQ-VAE](https://arxiv.org/pdf/1711.00937.pdf)
@@ -62,7 +63,11 @@
     - [浅谈Transformer的初始化、参数化与标准化](https://spaces.ac.cn/archives/8620)
     - 关于[互信息](https://zh.wikipedia.org/wiki/%E4%BA%92%E4%BF%A1%E6%81%AF)
     - [卷积](https://zh.wikipedia.org/wiki/%E5%8D%B7%E7%A7%AF)
-    - [长尾分布相关](https://zhuanlan.zhihu.com/p/548735583)
+
+- Long-Tail Learning
+    - [Generalized Logit Adjustment](https://zhuanlan.zhihu.com/p/548735583)
+    - [Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf)
+
 - Classical ML
     - [博客](https://www.zhihu.com/people/xu-tao-83-44-34/posts)
     - 概率图模型, [博客](https://longaspire.github.io/blog/%E6%A6%82%E7%8E%87%E5%9B%BE%E6%A8%A1%E5%9E%8B%E6%80%BB%E8%A7%88/), 以及周志华《机器学习》
