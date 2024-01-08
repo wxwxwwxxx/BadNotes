@@ -106,3 +106,4 @@
     - [复杂性的那些事](https://www.zhihu.com/column/c_1389404662173315072)
     - [Antkillerfarm Hacking V6.5](https://antkillerfarm.github.io/)
     - [科学空间](https://spaces.ac.cn/)
+    - [博客](https://www.zhihu.com/people/xia-jing-jing-57/)
