@@ -57,7 +57,9 @@
     - DropPath
     - RandAugment
     - LayerScale
+    - [RoPE](https://www.zhihu.com/tardis/zm/art/647109286?source_id=1003)
     - [BEVFormer](https://arxiv.org/abs/2203.17270)
+
 
 - Theory
     - [浅谈Transformer的初始化、参数化与标准化](https://spaces.ac.cn/archives/8620)
