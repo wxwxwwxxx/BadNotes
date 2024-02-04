@@ -111,3 +111,14 @@
     - 一些知乎用户
         - [链接](https://www.zhihu.com/people/xia-jing-jing-57/)
         - [链接](https://www.zhihu.com/people/liu-dong-13)
+
+- Books
+    - Computer Organization and Architecture: Themes and Variations
+    - 现代操作系统
+    - 概率论 茆诗松
+    - 数理统计与数据分析 John A. Rice
+        - 统计学书籍比较多，下列书籍可以作为参考：
+        - 统计推断 George Casella
+        - 统计学习基础 -数据挖掘，推理与预测 Trevor Hastie
+    - 机器学习 周志华
+    - 统计学习方法 李航
