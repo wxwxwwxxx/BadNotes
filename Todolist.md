@@ -6,6 +6,7 @@
     - [NExT-GPT](https://github.com/NExT-GPT/NExT-GPT)
     - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
     - [InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer)
+    - [CogVLM](https://arxiv.org/abs/2311.03079)
     - 其他可参考[排行榜](https://huggingface.co/spaces/AILab-CVC/SEED-Bench_Leaderboard)
 
 - LLM
@@ -59,6 +60,7 @@
     - LayerScale
     - [RoPE](https://www.zhihu.com/tardis/zm/art/647109286?source_id=1003)
     - [BEVFormer](https://arxiv.org/abs/2203.17270)
+    - [Mamba](https://arxiv.org/abs/2312.00752), [OpenReview](https://openreview.net/forum?id=AL1fq05o7H)
 
 
 - Theory
