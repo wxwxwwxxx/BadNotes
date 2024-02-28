@@ -19,7 +19,7 @@
     - Training or Inference Technique
         - RLHF, [项目集合](https://github.com/opendilab/awesome-RLHF), [博客](https://huggingface.co/blog/zh/rlhf)
         - RAG, [Langchain实现](https://python.langchain.com/docs/use_cases/question_answering/), [Survey](https://arxiv.org/abs/2312.10997)
-        - [Lora](https://arxiv.org/abs/2106.09685)
+        - [LoRA](https://arxiv.org/abs/2106.09685)
         - [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
 
 - Deployment
