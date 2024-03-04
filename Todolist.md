@@ -17,6 +17,9 @@
         - [Mixtral-8x7B](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
         - 其他可参考[排行榜](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)以及[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
     - Training or Inference Technique
+        - 量化
+            - [bitnet b1.58](https://arxiv.org/abs/2402.17764)
+            - [What are Quantized LLMs?](https://www.tensorops.ai/post/what-are-quantized-llms)
         - RLHF, [项目集合](https://github.com/opendilab/awesome-RLHF), [博客](https://huggingface.co/blog/zh/rlhf)
         - RAG, [Langchain实现](https://python.langchain.com/docs/use_cases/question_answering/), [Survey](https://arxiv.org/abs/2312.10997)
         - [LoRA](https://arxiv.org/abs/2106.09685)
