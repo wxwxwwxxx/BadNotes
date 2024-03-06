@@ -12,3 +12,7 @@
 - 模型集成方案：对多个模型的softmax取均值
 - 本文方案的搜索空间小于AutoML，同时规则引入的归纳偏置可以帮助医学影像分割问题
 - 本文的Batch size最小可以为2。此时归一化层采用instance normalization，同时需要较大的优化器动量
+
+## Links
+- [code](https://github.com/MIC-DKFZ/nnUNet)
+- [paper](https://www.nature.com/articles/s41592-020-01008-z)
