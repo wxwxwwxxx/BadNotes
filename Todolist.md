@@ -117,7 +117,8 @@
     - 一些知乎用户
         - [链接](https://www.zhihu.com/people/xia-jing-jing-57/)
         - [链接](https://www.zhihu.com/people/liu-dong-13)
-
+    - [OpenGVLab](https://github.com/OpenGVLab)
+    - OpenMMLab, [Github](https://github.com/open-mmlab), [HomePage](https://openmmlab.com/)
 - Books
     - Computer Organization and Architecture: Themes and Variations
     - 现代操作系统
