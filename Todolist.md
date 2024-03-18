@@ -87,10 +87,12 @@
     - [timm](https://github.com/huggingface/pytorch-image-models)
 
 - Engineering
+    - Software Related
     - [Clang](https://clang.llvm.org/docs/UsersManual.html)
     - [llvm](https://llvm.org/docs/)
     - [计算机体系结构基础](https://foxsen.github.io/archbase/)
-
+    - Low-Level and Hardware Related
+        - [GPU卡的底层通信原理](https://www.jianshu.com/p/e40059d5c832)
 - Writing
     - [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
     - [如何端到端地写科研论文？](http://www.cips-cl.org/static/CCL2018/downloads/stuPPT/qiuxp.pdf)
