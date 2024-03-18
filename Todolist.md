@@ -24,6 +24,7 @@
         - RAG, [Langchain实现](https://python.langchain.com/docs/use_cases/question_answering/), [Survey](https://arxiv.org/abs/2312.10997)
         - [LoRA](https://arxiv.org/abs/2106.09685)
         - [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
+        - [Continuous Batching](https://zhuanlan.zhihu.com/p/676109470)
 
 - Deployment
     - [TensorRT](https://github.com/NVIDIA/TensorRT)
@@ -119,6 +120,7 @@
         - [链接](https://www.zhihu.com/people/liu-dong-13)
     - [OpenGVLab](https://github.com/OpenGVLab)
     - OpenMMLab, [Github](https://github.com/open-mmlab), [HomePage](https://openmmlab.com/)
+    - [adam在大模型预训练中的不稳定性分析及解决办法](https://zhuanlan.zhihu.com/p/675421518)
 - Books
     - Computer Organization and Architecture: Themes and Variations
     - 现代操作系统
