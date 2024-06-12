@@ -93,6 +93,15 @@
     - [计算机体系结构基础](https://foxsen.github.io/archbase/)
     - Low-Level and Hardware Related
         - [GPU卡的底层通信原理](https://www.jianshu.com/p/e40059d5c832)
+
+- HPC/Computer Architecture/CUDA
+    - [CMU15-418](https://www.bilibili.com/video/BV1qT411g7n9/?spm_id_from=333.337.search-card.all.click&vd_source=48595d95206943f17002312e5fdd961f)
+    - [计算机体系结构基础](https://foxsen.github.io/archbase/index.html)
+    - [CMU18-447](https://www.bilibili.com/video/BV1PT4y1M7gM/?spm_id_from=333.999.0.0&vd_source=48595d95206943f17002312e5fdd961f)
+    - [Computer Architecture ETH Zurich](https://www.bilibili.com/video/BV1Vf4y1i7YG/?spm_id_from=333.999.0.0&vd_source=48595d95206943f17002312e5fdd961f)
+    - CUDA并行程序设计 GPU编程指南
+    - [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
+
 - Writing
     - [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
     - [如何端到端地写科研论文？](http://www.cips-cl.org/static/CCL2018/downloads/stuPPT/qiuxp.pdf)
