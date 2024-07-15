@@ -3,6 +3,7 @@
 来源：[AMS](https://aws.amazon.com/cn/what-is/retrieval-augmented-generation/)
 
 [RAG框架相关对比](https://zhuanlan.zhihu.com/p/707842657)
+[GrapgRAG](https://microsoft.github.io/graphrag/)
 
 ## 什么是检索增强生成？
 
