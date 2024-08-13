@@ -67,6 +67,7 @@
     - [BEVFormer](https://arxiv.org/abs/2203.17270)
     - [Mamba](https://arxiv.org/abs/2312.00752), [OpenReview](https://openreview.net/forum?id=AL1fq05o7H)
     - [TTT](https://arxiv.org/pdf/2407.04620)
+    - [Flash Attention](https://arxiv.org/abs/2205.14135)
 
 - Theory
     - [浅谈Transformer的初始化、参数化与标准化](https://spaces.ac.cn/archives/8620)
