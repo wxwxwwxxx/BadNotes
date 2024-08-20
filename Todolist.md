@@ -148,5 +148,7 @@
 - Interview Experience
     - [1](https://www.zhihu.com/question/426238388/answer/2937544836)
     - [2](https://zhuanlan.zhihu.com/p/690474151)
+    - [国内20家公司大模型岗位面试经验汇总](https://zhuanlan.zhihu.com/p/690801254)
     - [如何判断候选人有没有千卡GPU集群的训练经验？](https://www.zhihu.com/question/650979052)
     - [为什么现在的LLM都是Decoder only的架构？](https://www.zhihu.com/question/588325646)
+    
