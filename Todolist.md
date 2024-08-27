@@ -103,7 +103,7 @@
     - [Computer Architecture ETH Zurich](https://www.bilibili.com/video/BV1Vf4y1i7YG/?spm_id_from=333.999.0.0&vd_source=48595d95206943f17002312e5fdd961f)
     - CUDA并行程序设计 GPU编程指南
     - [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
-
+    - [Let’s talk about the PyTorch dispatcher](http://blog.ezyang.com/2020/09/lets-talk-about-the-pytorch-dispatcher/), 博客其他文章也值得一看
 - Writing
     - [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
     - [如何端到端地写科研论文？](http://www.cips-cl.org/static/CCL2018/downloads/stuPPT/qiuxp.pdf)
@@ -134,6 +134,8 @@
     - [OpenGVLab](https://github.com/OpenGVLab)
     - OpenMMLab, [Github](https://github.com/open-mmlab), [HomePage](https://openmmlab.com/)
     - [adam在大模型预训练中的不稳定性分析及解决办法](https://zhuanlan.zhihu.com/p/675421518)
+    - [如何阅读pytorch框架的源码？](https://www.zhihu.com/question/328463675)
+    - [在Hopper GPU上实现CuBLAS 90%性能的GEMM](https://zhuanlan.zhihu.com/p/695589046)
 - Books
     - Computer Organization and Architecture: Themes and Variations
     - 现代操作系统
@@ -151,4 +153,3 @@
     - [国内20家公司大模型岗位面试经验汇总](https://zhuanlan.zhihu.com/p/690801254)
     - [如何判断候选人有没有千卡GPU集群的训练经验？](https://www.zhihu.com/question/650979052)
     - [为什么现在的LLM都是Decoder only的架构？](https://www.zhihu.com/question/588325646)
-    
