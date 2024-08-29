@@ -104,6 +104,7 @@
     - CUDA并行程序设计 GPU编程指南
     - [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
     - [Let’s talk about the PyTorch dispatcher](http://blog.ezyang.com/2020/09/lets-talk-about-the-pytorch-dispatcher/), 博客其他文章也值得一看
+    - [大模型推理加速技术的学习路线是什么?](https://www.zhihu.com/question/591646269/answer/3539346609)
 - Writing
     - [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
     - [如何端到端地写科研论文？](http://www.cips-cl.org/static/CCL2018/downloads/stuPPT/qiuxp.pdf)
