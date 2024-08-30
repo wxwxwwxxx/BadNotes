@@ -137,6 +137,8 @@
     - [adam在大模型预训练中的不稳定性分析及解决办法](https://zhuanlan.zhihu.com/p/675421518)
     - [如何阅读pytorch框架的源码？](https://www.zhihu.com/question/328463675)
     - [在Hopper GPU上实现CuBLAS 90%性能的GEMM](https://zhuanlan.zhihu.com/p/695589046)
+    - [请问大模型在GPU进行上的推理时，核心计算是使用的tensor core 还是cuda core？](https://www.zhihu.com/question/636533414/answer/3345355574)
+
 - Books
     - Computer Organization and Architecture: Themes and Variations
     - 现代操作系统
