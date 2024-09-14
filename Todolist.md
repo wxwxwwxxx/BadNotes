@@ -158,3 +158,4 @@
     - [国内20家公司大模型岗位面试经验汇总](https://zhuanlan.zhihu.com/p/690801254)
     - [如何判断候选人有没有千卡GPU集群的训练经验？](https://www.zhihu.com/question/650979052)
     - [为什么现在的LLM都是Decoder only的架构？](https://www.zhihu.com/question/588325646)
+    - [国内大厂GPU CUDA高频面试问题汇总](https://zhuanlan.zhihu.com/p/678602674)
