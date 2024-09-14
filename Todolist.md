@@ -7,6 +7,7 @@
     - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
     - [InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer)
     - [CogVLM](https://arxiv.org/abs/2311.03079)
+    - [Multimodal Fusion on Low-quality Data: A Comprehensive Survey](https://arxiv.org/pdf/2404.18947)
     - 其他可参考[排行榜](https://huggingface.co/spaces/AILab-CVC/SEED-Bench_Leaderboard)
 
 - LLM
