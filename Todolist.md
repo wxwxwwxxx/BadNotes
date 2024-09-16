@@ -140,6 +140,7 @@
     - [在Hopper GPU上实现CuBLAS 90%性能的GEMM](https://zhuanlan.zhihu.com/p/695589046)
     - [请问大模型在GPU进行上的推理时，核心计算是使用的tensor core 还是cuda core？](https://www.zhihu.com/question/636533414/answer/3345355574)
     - [MLSys 入门向读书笔记CUDA by Example: An Introduction to General-Purpose GPU Programming](https://zhuanlan.zhihu.com/p/709427098)
+    - [NAdam](https://pytorch.org/docs/stable/generated/torch.optim.NAdam.html)
 
 - Books
     - Computer Organization and Architecture: Themes and Variations
