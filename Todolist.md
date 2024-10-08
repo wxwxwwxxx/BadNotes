@@ -17,6 +17,7 @@
         - [InstructGPT](https://arxiv.org/pdf/2203.02155.pdf)
         - [Mixtral-8x7B](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
         - 其他可参考[排行榜](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)以及[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+        - [DeepSeek](https://www.deepseek.com)
     - Training or Inference Technique
         - 量化
             - [bitnet b1.58](https://arxiv.org/abs/2402.17764)
@@ -28,6 +29,7 @@
         - [Continuous Batching](https://zhuanlan.zhihu.com/p/676109470)
         - [vllm](https://github.com/vllm-project/vllm)
         - KV Cache
+        - [GGUF格式](https://zhuanlan.zhihu.com/p/848013326)
 
 - Deployment
     - [TensorRT](https://github.com/NVIDIA/TensorRT)
@@ -68,7 +70,7 @@
     - [Mamba](https://arxiv.org/abs/2312.00752), [OpenReview](https://openreview.net/forum?id=AL1fq05o7H)
     - [TTT](https://arxiv.org/pdf/2407.04620)
     - [Flash Attention](https://arxiv.org/abs/2205.14135)
-    - [GGUF格式](https://zhuanlan.zhihu.com/p/848013326)
+
 
 - Theory
     - [浅谈Transformer的初始化、参数化与标准化](https://spaces.ac.cn/archives/8620)
@@ -142,6 +144,9 @@
     - [请问大模型在GPU进行上的推理时，核心计算是使用的tensor core 还是cuda core？](https://www.zhihu.com/question/636533414/answer/3345355574)
     - [MLSys 入门向读书笔记CUDA by Example: An Introduction to General-Purpose GPU Programming](https://zhuanlan.zhihu.com/p/709427098)
     - [NAdam](https://pytorch.org/docs/stable/generated/torch.optim.NAdam.html)
+    - 公众号
+        - AI不止算法
+        - GiantPandaCV
 
 - Books
     - Computer Organization and Architecture: Themes and Variations
