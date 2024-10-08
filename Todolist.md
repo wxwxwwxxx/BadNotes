@@ -17,6 +17,7 @@
         - [InstructGPT](https://arxiv.org/pdf/2203.02155.pdf)
         - [Mixtral-8x7B](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
         - 其他可参考[排行榜](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)以及[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+        - [DeepSeek](https://www.deepseek.com)
     - Training or Inference Technique
         - 量化
             - [bitnet b1.58](https://arxiv.org/abs/2402.17764)
@@ -26,7 +27,9 @@
         - [LoRA](https://arxiv.org/abs/2106.09685)
         - [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
         - [Continuous Batching](https://zhuanlan.zhihu.com/p/676109470)
+        - [vllm](https://github.com/vllm-project/vllm)
         - KV Cache
+        - [GGUF格式](https://zhuanlan.zhihu.com/p/848013326)
 
 - Deployment
     - [TensorRT](https://github.com/NVIDIA/TensorRT)
@@ -57,18 +60,17 @@
     - torchsript/JIT, [Demo](https://github.com/louis-she/torchscript-demos)
     - [DeepSpeed](https://github.com/microsoft/DeepSpeed)
 
-- Model Improvement, Efficient
-    - [Transformer-VQ](https://spaces.ac.cn/archives/9844)
-
-- Model Improvement, Performance
+- Model Improvement Related
     - DropPath
     - RandAugment
     - LayerScale
+    - [Transformer-VQ](https://spaces.ac.cn/archives/9844)
     - [RoPE](https://www.zhihu.com/tardis/zm/art/647109286?source_id=1003)
     - [BEVFormer](https://arxiv.org/abs/2203.17270)
     - [Mamba](https://arxiv.org/abs/2312.00752), [OpenReview](https://openreview.net/forum?id=AL1fq05o7H)
     - [TTT](https://arxiv.org/pdf/2407.04620)
     - [Flash Attention](https://arxiv.org/abs/2205.14135)
+
 
 - Theory
     - [浅谈Transformer的初始化、参数化与标准化](https://spaces.ac.cn/archives/8620)
@@ -107,6 +109,7 @@
     - [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
     - [Let’s talk about the PyTorch dispatcher](http://blog.ezyang.com/2020/09/lets-talk-about-the-pytorch-dispatcher/), 博客其他文章也值得一看
     - [大模型推理加速技术的学习路线是什么?](https://www.zhihu.com/question/591646269/answer/3539346609)
+
 - Writing
     - [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
     - [如何端到端地写科研论文？](http://www.cips-cl.org/static/CCL2018/downloads/stuPPT/qiuxp.pdf)
@@ -141,6 +144,11 @@
     - [在Hopper GPU上实现CuBLAS 90%性能的GEMM](https://zhuanlan.zhihu.com/p/695589046)
     - [请问大模型在GPU进行上的推理时，核心计算是使用的tensor core 还是cuda core？](https://www.zhihu.com/question/636533414/answer/3345355574)
     - [MLSys 入门向读书笔记CUDA by Example: An Introduction to General-Purpose GPU Programming](https://zhuanlan.zhihu.com/p/709427098)
+    - [NAdam](https://pytorch.org/docs/stable/generated/torch.optim.NAdam.html)
+    - OCR框架 [Vary](https://www.wehelpwin.com/article/4758)
+    - 公众号
+        - AI不止算法
+        - GiantPandaCV
 
 - Books
     - Computer Organization and Architecture: Themes and Variations
@@ -160,3 +168,7 @@
     - [如何判断候选人有没有千卡GPU集群的训练经验？](https://www.zhihu.com/question/650979052)
     - [为什么现在的LLM都是Decoder only的架构？](https://www.zhihu.com/question/588325646)
     - [国内大厂GPU CUDA高频面试问题汇总](https://zhuanlan.zhihu.com/p/678602674)
+
+- Games
+    [Unity入门](https://unity.com/cn/learn/get-started)
+    [掘金](https://juejin.cn/post/7294085118913364008)
