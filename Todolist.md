@@ -58,18 +58,17 @@
     - torchsript/JIT, [Demo](https://github.com/louis-she/torchscript-demos)
     - [DeepSpeed](https://github.com/microsoft/DeepSpeed)
 
-- Model Improvement, Efficient
-    - [Transformer-VQ](https://spaces.ac.cn/archives/9844)
-
-- Model Improvement, Performance
+- Model Improvement Related
     - DropPath
     - RandAugment
     - LayerScale
+    - [Transformer-VQ](https://spaces.ac.cn/archives/9844)
     - [RoPE](https://www.zhihu.com/tardis/zm/art/647109286?source_id=1003)
     - [BEVFormer](https://arxiv.org/abs/2203.17270)
     - [Mamba](https://arxiv.org/abs/2312.00752), [OpenReview](https://openreview.net/forum?id=AL1fq05o7H)
     - [TTT](https://arxiv.org/pdf/2407.04620)
     - [Flash Attention](https://arxiv.org/abs/2205.14135)
+    - [GGUF格式](https://zhuanlan.zhihu.com/p/848013326)
 
 - Theory
     - [浅谈Transformer的初始化、参数化与标准化](https://spaces.ac.cn/archives/8620)
