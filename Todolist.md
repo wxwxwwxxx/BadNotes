@@ -94,6 +94,7 @@
     - [Clang](https://clang.llvm.org/docs/UsersManual.html)
     - [llvm](https://llvm.org/docs/)
     - [计算机体系结构基础](https://foxsen.github.io/archbase/)
+    - [PyTorch Custom Operators](https://pytorch.org/tutorials/advanced/custom_ops_landing_page.html#custom-ops-landing-page)
     - Low-Level and Hardware Related
         - [GPU卡的底层通信原理](https://www.jianshu.com/p/e40059d5c832)
 
