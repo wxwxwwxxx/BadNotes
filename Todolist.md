@@ -28,6 +28,7 @@
         - [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
         - [Continuous Batching](https://zhuanlan.zhihu.com/p/676109470)
         - [vllm](https://github.com/vllm-project/vllm)
+            - [相关博客](https://zhuanlan.zhihu.com/p/711304830)
         - KV Cache
         - [GGUF格式](https://zhuanlan.zhihu.com/p/848013326)
 
