@@ -6,3 +6,9 @@
 - 委托
 - beam search
 - NMS
+
+CUDA优化中的一些重要概念
+- warp
+- 合并访问/非合并访问
+- bank conflict
+- 内存分类，寄存器，全局内存，共享内存等
