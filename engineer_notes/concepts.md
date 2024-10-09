@@ -4,3 +4,5 @@
 - 反射
 - Event（发布-订阅模式）
 - 委托
+- beam search
+- NMS
