@@ -98,6 +98,7 @@
     - [llvm](https://llvm.org/docs/)
     - [计算机体系结构基础](https://foxsen.github.io/archbase/)
     - [PyTorch Custom Operators](https://pytorch.org/tutorials/advanced/custom_ops_landing_page.html#custom-ops-landing-page)
+    - [C++11/14/17/20/23新特性，哪些是必须掌握的，哪些基本用得不多？](https://www.zhihu.com/question/474664436/answer/3617012965)
     - Low-Level and Hardware Related
         - [GPU卡的底层通信原理](https://www.jianshu.com/p/e40059d5c832)
 
@@ -143,11 +144,14 @@
     - [adam在大模型预训练中的不稳定性分析及解决办法](https://zhuanlan.zhihu.com/p/675421518)
     - [如何阅读pytorch框架的源码？](https://www.zhihu.com/question/328463675)
     - [在Hopper GPU上实现CuBLAS 90%性能的GEMM](https://zhuanlan.zhihu.com/p/695589046)
+    - [如何优化CUDA矩阵乘法来达到接近cuBLAS的性能](https://zhuanlan.zhihu.com/p/1985787351)
     - [请问大模型在GPU进行上的推理时，核心计算是使用的tensor core 还是cuda core？](https://www.zhihu.com/question/636533414/answer/3345355574)
     - [MLSys 入门向读书笔记CUDA by Example: An Introduction to General-Purpose GPU Programming](https://zhuanlan.zhihu.com/p/709427098)
     - [NAdam](https://pytorch.org/docs/stable/generated/torch.optim.NAdam.html)
     - [Attention优化🔥原理&图解: 从Online-Softmax到FlashAttention V1/V2/V3](https://zhuanlan.zhihu.com/p/668888063)
+    - [如何用verilog设计一款NPU?](https://www.zhihu.com/question/840918079/answer/5672505048)
     - OCR框架 [Vary](https://www.wehelpwin.com/article/4758)
+    - [自动驾驶问题很多，未来前景如何？](https://www.zhihu.com/question/50806552/answer/3539932124)
     - 公众号
         - AI不止算法
         - GiantPandaCV
@@ -164,13 +168,21 @@
     - 统计学习方法 李航
 
 - Interview Experience
-    - [1](https://www.zhihu.com/question/426238388/answer/2937544836)
-    - [2](https://zhuanlan.zhihu.com/p/690474151)
+    - [请问计算机视觉（CV）算法岗在社招时更看重什么？](https://www.zhihu.com/question/426238388/answer/2937544836)
+    - [大模型面试基础知识](https://zhuanlan.zhihu.com/p/690474151)
     - [国内20家公司大模型岗位面试经验汇总](https://zhuanlan.zhihu.com/p/690801254)
     - [如何判断候选人有没有千卡GPU集群的训练经验？](https://www.zhihu.com/question/650979052)
     - [为什么现在的LLM都是Decoder only的架构？](https://www.zhihu.com/question/588325646)
     - [国内大厂GPU CUDA高频面试问题汇总](https://zhuanlan.zhihu.com/p/678602674)
+    - 如果你是一个C++面试官，你会问哪些问题？
+        - [Answer 1](https://www.zhihu.com/question/451327108/answer/4301587935)
+        - [Answer 2](https://www.zhihu.com/question/451327108/answer/3299498791)
+    - [【面试经验】大疆笔试-计算机视觉算法B卷](https://zhuanlan.zhihu.com/p/721248418)
+    - [C++知识点](https://www.zhihu.com/question/628378141/answer/3272494503)
 
-- Games
+- Games/CG Related
     - [Unity入门](https://unity.com/cn/learn/get-started)
     - [掘金](https://juejin.cn/post/7294085118913364008)
+    - [NeRF 最新技术: 3D Gaussian Splatting 技术分享](https://zhuanlan.zhihu.com/p/717369859)
+    - [有向距离场 SDF](https://www.zhihu.com/question/655748349/answer/3613581354)
+    - [图形学渲染笔记 - Whitted Style Rendering](https://zhuanlan.zhihu.com/p/715597422)
