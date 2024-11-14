@@ -112,6 +112,7 @@
     - [Let’s talk about the PyTorch dispatcher](http://blog.ezyang.com/2020/09/lets-talk-about-the-pytorch-dispatcher/), 博客其他文章也值得一看
     - [大模型推理加速技术的学习路线是什么?](https://www.zhihu.com/question/591646269/answer/3539346609)
     - [对大规模机器学习和MLsys感兴趣，学习路线是什么？](https://www.zhihu.com/question/537007032/answer/3234105853)
+    - [请问大佬可以推荐一下有关CUDA加速的开源项目吗？](https://www.zhihu.com/question/448519993)
 
 - Writing
     - [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
