@@ -188,3 +188,7 @@
     - [NeRF 最新技术: 3D Gaussian Splatting 技术分享](https://zhuanlan.zhihu.com/p/717369859)
     - [有向距离场 SDF](https://www.zhihu.com/question/655748349/answer/3613581354)
     - [图形学渲染笔记 - Whitted Style Rendering](https://zhuanlan.zhihu.com/p/715597422)
+
+- Online Lesson
+    - Bilibili:[我是傅傅猪](https://space.bilibili.com/1822828582?spm_id_from=333.337.0.0)
+    - Bilibili:[不归牛顿管的熊猫](https://space.bilibili.com/393625476?spm_id_from=333.337.0.0)，微信公众号:AI不止算法
