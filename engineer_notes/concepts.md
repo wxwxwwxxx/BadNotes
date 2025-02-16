@@ -18,3 +18,6 @@ CUDA优化中的一些重要概念
     - InfoNCE, Focal Loss
     - CLIP, BLIP等
     - 多模态大模型
+
+实验管理
+- 更规范管理实验的方式可以是所有模块用hydra管理配置，用logging或loguru管理日志，用wandb管理超参和记录curve
