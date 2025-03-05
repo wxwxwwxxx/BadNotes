@@ -1,3 +1,53 @@
+大模型/AI Infra
+- 模型技术
+    - Transformer结构
+        - Post Norm和Pre Norm的区别？
+    - RLHF
+        - PPO
+        - DPO
+        - GRPO
+        - RLOO
+        - REINFORCE++
+    - Attention (KV Cache)([重要文章](https://zhuanlan.zhihu.com/p/700588653))
+        - MHA
+        - MQA
+        - GQA
+        - MLA
+    - RoPE位置编码
+    - SWiGLU
+    - RMS_Norm
+    - MoE
+
+- 训练技术
+    - 分布式训练框架
+        - Megatron-LM
+        - DeepSpeed
+        - Colossal-AI
+        - FairScale
+    - 训练流程
+        - InstructGPT
+
+- 推理相关技术
+    - 量化
+        - AWQ
+        - GPTQ
+    - RAG
+        - GraphRAG
+    - 优化相关
+        - FlashAttention
+        - TensorRT-LLM
+        - AI Infra
+
+- AI Infra
+    - CUDA
+    - Triton语言
+    - KTransformer
+    - SGLang
+    - vLLM
+    - Llama.cpp
+    - DeepSeek相关开源项目
+
+
 待学习列表:
 - MLLM
     - [LLaVa](https://github.com/haotian-liu/LLaVA)
@@ -190,5 +240,5 @@
     - [图形学渲染笔记 - Whitted Style Rendering](https://zhuanlan.zhihu.com/p/715597422)
 
 - Online Lesson
-    - Bilibili:[我是傅傅猪](https://space.bilibili.com/1822828582?spm_id_from=333.337.0.0)
-    - Bilibili:[不归牛顿管的熊猫](https://space.bilibili.com/393625476?spm_id_from=333.337.0.0)，微信公众号:AI不止算法
+    - Bilibili:[我是傅傅猪](https://space.bilibili.com/1822828582)
+    - Bilibili:[不归牛顿管的熊猫](https://space.bilibili.com/393625476)，微信公众号:AI不止算法
