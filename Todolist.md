@@ -17,6 +17,7 @@
     - SWiGLU
     - RMS_Norm
     - MoE
+    - 图片tokenizer
 
 - 训练技术
     - 分布式训练框架
